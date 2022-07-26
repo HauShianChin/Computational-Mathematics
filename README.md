@@ -2,4 +2,4 @@
 - Projects done in python to analyse different quantitative approaches.    
 
 
-THese projects covers fundamental concepts in linear algebra and multivariable calculus and their applications to physical and engineering problems. Additionally, the scope of these projects includes dimensionality, linear transformations, matrix decomposition, Taylor series, calculus of vector-valued functions and calculus of two-variable functions.
+- These projects covers fundamental concepts in linear algebra and multivariable calculus and their applications to physical and engineering problems. Additionally, the scope of these projects includes dimensionality, linear transformations, matrix decomposition, Taylor series, calculus of vector-valued functions and calculus of two-variable functions.
